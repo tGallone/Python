@@ -1,5 +1,5 @@
 
-from moviepy.editor import *
+from moviepy.editor import * 
 
 video = VideoFileClip("SampleSourceVideo.mp4").subclip(50,60)
 
